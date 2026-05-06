@@ -1,3 +1,4 @@
+# File path: $HOME/.zshrc
 
 HISTFILE="$HOME/.zsh_history"
 HISTSIZE=10000
