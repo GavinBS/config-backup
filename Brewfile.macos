@@ -1,5 +1,5 @@
 # brew bundle dump --file=Brewfile
-# brew bundle dump --file=Brewfile
+# brew bundle --file=Brewfile
 
 
 tap "homebrew/services"
@@ -36,6 +36,7 @@ cask "font-noto-sans-cjk-sc"
 cask "font-noto-sans-cjk-tc"
 cask "font-symbols-only-nerd-font"
 cask "fuse-t"
+cask "font-jetbrains-mono-nerd-font"
 cask "iterm2"
 cask "maczip"
 cask "proxifier"
