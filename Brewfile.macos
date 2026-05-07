@@ -2,7 +2,6 @@
 # brew bundle --file=Brewfile
 
 
-tap "homebrew/services"
 brew "bat"
 brew "bottom"
 brew "btop"
