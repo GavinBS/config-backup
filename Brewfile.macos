@@ -1,5 +1,5 @@
-# brew bundle dump --file=Brewfile
-# brew bundle --file=Brewfile
+# brew bundle dump --file=xxxxx --force --no-vscode
+# brew bundle --file=xxxxx
 
 
 brew "bat"
