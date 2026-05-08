@@ -1,0 +1,20 @@
+# mas list > masapps.macos
+# cat masapps.macos | awk '{print $1}' | xargs mas install
+
+
+1440147259  AdGuard Mini       (2.1.4)
+1352778147  Bitwarden          (2026.3.1)
+ 897446215  Canva              (1.122.1)
+1435447041  DingTalk           (8.3.5)
+1136220934  Infuse             (8.4.4)
+1661733229  LocalSend          (1.17.0)
+ 985367838  Microsoft Outlook  (16.108.3)
+ 451108668  QQ                 (6.9.95)
+ 932747118  Shadowrocket       (2.2.80)
+1475387142  Tailscale          (1.96.5)
+ 747648890  Telegram           (12.6)
+ 836500024  WeChat             (4.1.7)
+1295203466  Windows App        (11.3.5)
+1451685025  WireGuard          (1.0.16)
+1468073139  WPS Office         (12.1.25880)
+ 497799835  Xcode              (26.4.1)
